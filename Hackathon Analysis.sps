@@ -1,0 +1,5 @@
+** ANALYSIS **
+
+DATASET ACTIVATE DataSet1.
+USE ALL.
+ 
